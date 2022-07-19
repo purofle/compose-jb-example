@@ -69,7 +69,7 @@ compose.desktop {
         mainClass = "com.example.MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "Exampls"
+            packageName = "Example"
             packageVersion = "1.0.0"
         }
     }
