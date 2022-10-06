@@ -1,6 +1,6 @@
 # compose-jb-example
 
-A example of [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) with LiveModel, Di and Material You. And there are a [docs](https://www.ehsetuproject.com/) about it 
+A example of [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) with LiveModel, Di and Material You. 
 
 ## Run
 
